@@ -9,9 +9,10 @@ application up and running.
 
 ## Built With
 - Ruby
+- Rails
 
 ### Prerequisites
-- A computer with ruby installed.
+- A computer with ruby and rails installed.
 
 ## Live Demo
 
