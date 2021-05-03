@@ -8,6 +8,16 @@ application up and running.
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+## Built With
+- Ruby
+
+### Prerequisites
+- A computer with ruby installed.
+
+## Live Demo
+
+[Live Demo Link](https://shielded-headland-69411.herokuapp.com/)
+
 Things you may want to cover:
 
 * Ruby version
